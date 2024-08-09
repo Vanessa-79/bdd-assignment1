@@ -1,0 +1,12 @@
+{
+  "name": "cucumber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "Vanessa",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
